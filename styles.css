@@ -15,6 +15,16 @@ body {
 
 }
 
+.hero a {
+    color: white;
+    opacity: 0.3;
+
+}
+
+.hero,a:hover {
+    opacity: 1;
+}
+
 footer {
     display: block;
     height: 100%;
