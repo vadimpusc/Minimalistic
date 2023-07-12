@@ -4,6 +4,10 @@ body {
     /* height: 100vh; */
 }
 
+html {
+    /* scroll-behavior: smooth; */
+}
+
 /* section {
     background-color: white;
 } */
