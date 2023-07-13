@@ -147,10 +147,12 @@ width: 100%;
 }
 
 #header-background {
+    /* display: none; */
     background:url(img/main.jpg);
-    background-size: cover;
+    background-position: center;
+    /* background-size: cover; */
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
 }
 
 .info {
